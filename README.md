@@ -74,19 +74,3 @@
       <img title="estatísticas de Samuka-devBr" alt="Samuka-devBr's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Samuka-devBr&theme=monokai-metallian&hide_border=true&short_numbers=true&locale=pt-br"/>
     </a>
 </p>
-  
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Samuka-devBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuka-devBr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
